@@ -1,0 +1,515 @@
+[[override]]
+  name = "github.com/juju/juju"
+  revision = "da9587835261bc209902012eaab77cbae8aef532"
+
+[[override]]
+  name = "google.golang.org/cloud"
+  revision = "f20d6dcccb44ed49de45ae3703312cb46e627db1"
+
+[[override]]
+  name = "gopkg.in/macaroon-bakery.v2-unstable"
+  revision = "5a131df02b2333d5d75c501743cbc2948ee9bbf0"
+
+[[override]]
+  revision = "4e5a4a63d9b78757b4891b8de60be2606d8972ee"
+  name = "github.com/EvilSuperstars/go-cidrman"
+
+[[override]]
+  revision = "a27b59fe2be9d16e2b66f0d7acf5c852f844cc2b"
+  name = "github.com/altoros/gosigma"
+  source = "github.com/juju/gosigma"
+
+[[override]]
+  name = "github.com/coreos/go-systemd"
+  revision = "ec90daa870dd15120bd957a3f0ca9f01fede2b27"
+
+[[override]]
+  revision = "36ee7e946282a3fb1cfecd476ddc9b35d8847e42"
+  name = "github.com/gosuri/uitable"
+
+[[override]]
+  revision = "fa3f63826f7c23912c15263591e65d54d080b458"
+  name = "github.com/hashicorp/go-msgpack"
+
+[[override]]
+  revision = "6e5ba93211eaf8d9a2ad7e41ffad8c6f160f9fe3"
+  name = "github.com/hashicorp/raft-boltdb"
+
+[[override]]
+  revision = "a15b892a41663fc698e6fb81c9e3d9e72fbe5c9c"
+  name = "github.com/juju/bundlechanges"
+
+[[override]]
+  revision = "2f1dd3b325dc9708836d56063783a7ac72c71c3f"
+  name = "github.com/juju/description"
+
+[[override]]
+  revision = "2ce1bb71843d6d179b3f1c1c9cb4a72cd067fc65"
+  name = "github.com/juju/gnuflag"
+
+[[override]]
+  revision = "e1ad140384f254c82f89450d9a7c8dd38a632838"
+  name = "github.com/juju/gojsonschema"
+
+[[override]]
+  revision = "8a8cec793ba70659ba95f1b9a491ba807169bfc3"
+  name = "github.com/juju/gomaasapi"
+
+[[override]]
+  revision = "a0ef8b74ebcffeeff9fc374854deb4af388f037e"
+  name = "github.com/juju/jsonschema"
+
+[[override]]
+  revision = "d21b13acf4bfd8a8b0482a3a78e44d98880b40d3"
+  name = "github.com/juju/mutex"
+
+[[override]]
+  revision = "5b81707e882b8293e6cf77854b4cd49f29776e11"
+  name = "github.com/juju/naturalsort"
+
+[[override]]
+  revision = "c23cb5719c78fb34bcf0eefecf4137dd95436877"
+  name = "github.com/juju/os"
+
+[[override]]
+  revision = "ba21344fff207f4fa06b0a08bac386b179a2e6a1"
+  name = "github.com/juju/packaging"
+
+[[override]]
+  revision = "5f8741c297b47cba29f747c67f2e31e7c2a36ecb"
+  name = "github.com/juju/proxy"
+
+[[override]]
+  revision = "501ab59799b199dc2a129e60a771a51fef99cd51"
+  name = "github.com/juju/replicaset"
+
+[[override]]
+  revision = "b058ad085c9480f110200bfe2309189aff5780b8"
+  name = "github.com/juju/rfc"
+
+[[override]]
+  revision = "958d8b71e5ffa51212133b12a998ddf8362739df"
+  name = "github.com/juju/romulus"
+
+[[override]]
+  revision = "e81189438503b1e5c94efe95a604372b33eee7a2"
+  name = "github.com/juju/testing"
+
+[[override]]
+  revision = "bf9cc5bdd62dabc40b7f634b39a5e2dc44d44c45"
+  name = "github.com/juju/utils"
+
+[[override]]
+  revision = "54b8c57083b4afb7dc75da7f13e2967b2606a507"
+  name = "github.com/juju/webbrowser"
+
+[[override]]
+  name = "github.com/lxc/lxd"
+  revision = "4c2bbb608e7a90a9f175a566b9e638069424f0f7"
+
+[[override]]
+  name = "github.com/oracle/oci-go-sdk"
+  revision = "72941f7f9bfa6550f640b797fde43b19b1574911"
+
+[[override]]
+  revision = "8c3190dff075bf5442c9eedbf8f8ed6144a099e7"
+  name = "gopkg.in/amz.v3"
+
+[[override]]
+  name = "gopkg.in/ini.v1"
+  revision = "776aa739ce9373377cd16f526cdf06cb4c89b40f"
+
+[[override]]
+  revision = "51fa6e26128d74e445c72d3a91af555151cc3654"
+  name = "gopkg.in/juju/blobstore.v2"
+
+[[override]]
+  name = "gopkg.in/juju/charm.v6"
+  revision = "f915791435aa68df6d2b87b7ec16dac9f695a63e"
+
+[[override]]
+  revision = "7778a447283bd71109671c20818544514e16e9d9"
+  name = "gopkg.in/juju/charmrepo.v3"
+
+[[override]]
+  revision = "7359fc7857abe2b11b5b3e23811a9c64cb6b01e0"
+  name = "gopkg.in/juju/environschema.v1"
+
+[[override]]
+  revision = "fd59336b4621bc2a70bf96d9e2f49954115ad19b"
+  name = "gopkg.in/juju/names.v2"
+
+[[override]]
+  revision = "c1b8fa8bdccecb0b8db834ee0b92fdbcfa606dd6"
+  name = "gopkg.in/natefinch/npipe.v2"
+
+[[override]]
+  name = "gopkg.in/retry.v1"
+  revision = "87155f248cf6ea9e38ae7613f9ea1e5bb397ac83"
+
+[[override]]
+  revision = "183f3326a9353bd6d41430fc80f96259331d029c"
+  name = "k8s.io/api"
+
+[[override]]
+  revision = "cbafd24d5796966031ae904aa88e2436a619ae8a"
+  name = "k8s.io/apimachinery"
+
+[[override]]
+  name = "gopkg.in/juju/charmstore.v5"
+  revision = "743b5ab3209d901b82aaa6594c405e017e0761a9"
+
+[[override]]
+  name = "github.com/masterzen/xmlpath"
+  revision = "13f4951698adc0fa9c1dda3e275d489a24201161"
+
+[[override]]
+  name = "cloud.google.com/go"
+  revision = "3b1ae45394a234c385be014e9a488f2bb6eef821"
+
+[[override]]
+  name = "github.com/Azure/azure-sdk-for-go"
+  revision = "9699bdefa481d47c5c7638a1cc05d87ce53601fd"
+
+[[override]]
+  name = "github.com/Azure/go-autorest"
+  revision = "528b76fd0ebec0682f3e3da7c808cd472b999615"
+
+[[override]]
+  name = "github.com/ajstarks/svgo"
+  revision = "89e3ac64b5b3e403a5e7c35ea4f98d45db7b4518"
+
+[[override]]
+  name = "github.com/armon/go-metrics"
+  revision = "f0300d1749da6fa982027e449ec0c7a145510c3c"
+
+[[override]]
+  name = "github.com/beorn7/perks"
+  revision = "3ac7bf7a47d159a033b107610db8a1b6575507a4"
+
+[[override]]
+  name = "github.com/bmizerany/pat"
+  revision = "c068ca2f0aacee5ac3681d68e4d0a003b7d1fd2c"
+
+[[override]]
+  name = "github.com/boltdb/bolt"
+  revision = "e9cf4fae01b5a8ff89d0ec6b32f0d9c9f79aefdd"
+
+[[override]]
+  name = "github.com/dgrijalva/jwt-go"
+  revision = "01aeca54ebda6e0fbfafd0a524d234159c05ec20"
+
+[[override]]
+  name = "github.com/docker/distribution"
+  revision = "f0cc927784781fa395c06317c58dea2841ece3a9"
+
+[[override]]
+  name = "github.com/dustin/go-humanize"
+  revision = "145fabdb1ab757076a70a886d092a3af27f66f4c"
+
+[[override]]
+  name = "github.com/godbus/dbus"
+  revision = "32c6cc29c14570de4cf6d7e7737d68fb2d01ad15"
+
+[[override]]
+  name = "github.com/golang/glog"
+  revision = "44145f04b68cf362d9c4df2182967c2275eaefed"
+
+[[override]]
+  name = "github.com/golang/mock"
+  revision = "600781dde9cca80734169b9e969d9054ccc57937"
+
+[[override]]
+  name = "github.com/google/go-querystring"
+  revision = "9235644dd9e52eeae6fa48efd539fdc351a0af53"
+
+[[override]]
+  name = "github.com/google/gofuzz"
+  revision = "44d81051d367757e1c7c6a5a86423ece9afcf63c"
+
+[[override]]
+  name = "github.com/gorilla/handlers"
+  revision = "13d73096a474cac93275c679c7b8a2dc17ddba82"
+
+[[override]]
+  name = "github.com/gorilla/schema"
+  revision = "08023a0215e7fc27a9aecd8b8c50913c40019478"
+
+[[override]]
+  name = "github.com/gorilla/websocket"
+  revision = "5ed622c449da6d44c3c8329331ff47a9e5844f71"
+
+[[override]]
+  name = "github.com/hashicorp/raft"
+  revision = "834fca2f9ffc153bf038e9333425a40ba515059f"
+  source = "github.com/juju/raft"
+
+[[override]]
+  name = "github.com/joyent/gocommon"
+  revision = "ade826b8b54e81a779ccb29d358a45ba24b7809c"
+
+[[override]]
+  name = "github.com/joyent/gosdc"
+  revision = "2f11feadd2d9891e92296a1077c3e2e56939547d"
+
+[[override]]
+  name = "github.com/joyent/gosign"
+  revision = "0da0d5f1342065321c97812b1f4ac0c2b0bab56c"
+
+[[override]]
+  name = "github.com/juju/ansiterm"
+  revision = "b99631de12cf04a906c1d4e4ec54fb86eae5863d"
+
+[[override]]
+  name = "github.com/juju/clock"
+  revision = "9c5c9712527c7986f012361e7d13756b4d99543d"
+
+[[override]]
+  name = "github.com/juju/cmd"
+  revision = "a8c88215d37e4d65036822bca0522d11f888f7eb"
+
+[[override]]
+  name = "github.com/juju/collections"
+  revision = "9be91dc79b7c185fa8b08e7ceceee40562055c83"
+
+[[override]]
+  name = "github.com/juju/errors"
+  revision = "22422dad46e14561a0854ad42497a75af9b61909"
+
+[[override]]
+  name = "github.com/juju/go-oracle-cloud"
+  revision = "932a8cea00a1cd5cba3829a672c823955db674ae"
+
+[[override]]
+  name = "github.com/juju/httprequest"
+  revision = "266fd1e9debf09c037a63f074d099a2da4559ece"
+
+[[override]]
+  name = "github.com/juju/idmclient"
+  revision = "fb1dc7175251ac8e2dc460897313e05175cbbc0d"
+
+[[override]]
+  name = "github.com/juju/loggo"
+  revision = "6e530bcce5d8e1b51b8e5ee7f08a455cd0a8c2e5"
+
+[[override]]
+  name = "github.com/juju/lru"
+  revision = "305dec07bf2f69353bb05fa849e2a0834e220f94"
+
+[[override]]
+  name = "github.com/juju/persistent-cookiejar"
+  revision = "d67418f14c93a698e37b52468958d5d4dcf8a7dd"
+
+[[override]]
+  name = "github.com/juju/pubsub"
+  revision = "c1f7536b9cc692693a90ba07381488591441b5cf"
+
+[[override]]
+  name = "github.com/juju/ratelimit"
+  revision = "5b9ff866471762aa2ab2dced63c9fb6f53921342"
+
+[[override]]
+  name = "github.com/juju/retry"
+  revision = "9058e192b216b21e4741c2eeb20ac798ba1ea80a"
+
+[[override]]
+  name = "github.com/juju/schema"
+  revision = "64a6158e90710d0a16c6bd3cf0a6be6b2e80193c"
+
+[[override]]
+  name = "github.com/juju/terms-client"
+  revision = "9b925afd677234e4146dde3cb1a11e187cbed64e"
+
+[[override]]
+  revision = "5f348e78887d8757a402c7bb81e707c3b244c6da"
+  name = "github.com/juju/txn"
+
+[[override]]
+  name = "github.com/juju/usso"
+  revision = "68a59c96c178fbbad65926e7f93db50a2cd14f33"
+
+[[override]]
+  name = "github.com/juju/version"
+  revision = "1f41e27e54f21acccf9b2dddae063a782a8a7ceb"
+
+[[override]]
+  name = "github.com/juju/xml"
+  revision = "eb759a627588d35166bc505fceb51b88500e291e"
+
+[[override]]
+  name = "github.com/julienschmidt/httprouter"
+  revision = "77a895ad01ebc98a4dc95d8355bc825ce80a56f6"
+
+[[override]]
+  name = "github.com/kr/pretty"
+  revision = "cfb55aafdaf3ec08f0db22699ab822c50091b1c4"
+
+[[override]]
+  name = "github.com/kr/text"
+  revision = "7cafcd837844e784b526369c9bce262804aebc60"
+
+[[override]]
+  name = "github.com/lestrrat/go-jspointer"
+  revision = "f4881e611bdbe9fb413a7780721ef8400a1f2341"
+
+[[override]]
+  name = "github.com/lestrrat/go-jsref"
+  revision = "e452c7b5801d1c6494c9e7e0cbc7498c0f88dfd1"
+
+[[override]]
+  name = "github.com/lestrrat/go-jsschema"
+  revision = "b09d7650b822d2ea3dc83d5091a5e2acd8330051"
+
+[[override]]
+  name = "github.com/lestrrat/go-jsval"
+  revision = "b1258a10419fe0693f7b35ad65cd5074bc0ba1e5"
+
+[[override]]
+  name = "github.com/lestrrat/go-pdebug"
+  revision = "2e6eaaa5717f81bda41d27070d3c966f40a1e75f"
+
+[[override]]
+  name = "github.com/lestrrat/go-structinfo"
+  revision = "f74c056fe41f860aa6264478c664a6fff8a64298"
+
+[[override]]
+  name = "github.com/lunixbochs/vtclean"
+  revision = "4fbf7632a2c6d3fbdb9931439bdbbeded02cbe36"
+
+[[override]]
+  name = "github.com/masterzen/azure-sdk-for-go"
+  revision = "ee4f0065d00cd12b542f18f5bc45799e88163b12"
+
+[[override]]
+  name = "github.com/masterzen/winrm"
+  revision = "7a535cd943fccaeed196718896beec3fb51aff41"
+
+[[override]]
+  name = "gopkg.in/macaroon.v2-unstable"
+  revision = "66ab28d0d56f39a383f7cf5cf3ac9a4e9ab32865"
+
+[[override]]
+  name = "github.com/prometheus/client_golang"
+  revision = "32b1bb4674c4db541df5b547bb1a325337522022"
+
+[[override]]
+  name = "github.com/prometheus/client_model"
+  revision = "5c3871d89910bfb32f5fcab2aa4b9ec68e65a99f"
+
+[[override]]
+  name = "github.com/prometheus/common"
+  revision = "4724e9255275ce38f7179b2478abeae4e28c904f"
+
+[[override]]
+  name = "github.com/prometheus/procfs"
+  revision = "aa55a523dc0a8297edf51bb75e8eec13eb3be45d"
+
+[[override]]
+  name = "k8s.io/client-go"
+  revision = "3db81bdd128696db1c2fcba8a426ed0a3993824d"
+
+[[override]]
+  name = "github.com/mattn/go-colorable"
+  revision = "ed8eb9e318d7a84ce5915b495b7d35e0cfe7b5a8"
+
+[[override]]
+  name = "github.com/mattn/go-isatty"
+  revision = "66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8"
+
+[[override]]
+  name = "github.com/mattn/go-runewidth"
+  revision = "d96d1bd051f2bd9e7e43d602782b37b93b1b5666"
+
+[[override]]
+  name = "github.com/pkg/errors"
+  revision = "839d9e913e063e28dfd0e6c7b7512793e0a48be9"
+
+[[override]]
+  name = "github.com/satori/uuid"
+  revision = "5bf94b69c6b68ee1b541973bb8e1144db23a194b"
+
+[[override]]
+  name = "github.com/vmware/govmomi"
+  revision = "05504416e95561e1478196d7058721c827a7bb8c"
+
+[[override]]
+  name = "golang.org/x/crypto"
+  revision = "f027049dab0ad238e394a753dba2d14753473a04"
+
+[[override]]
+  name = "golang.org/x/net"
+  revision = "61147c48b25b599e5b561d2e9c4f3e1ef489ca41"
+
+[[override]]
+  name = "golang.org/x/oauth2"
+  revision = "a6bd8cefa1811bd24b86f8902872e4e8225f74c4"
+
+[[override]]
+  name = "golang.org/x/sys"
+  revision = "0cf1ed9e522b7dbb416f080a5c8003de9b702bf4"
+
+[[override]]
+  name = "golang.org/x/text"
+  revision = "b19bf474d317b857955b12035d2c5acb57ce8b01"
+
+[[override]]
+  name = "google.golang.org/api"
+  revision = "ed10e890a8366167a7ce33fac2b12447987bcb1c"
+
+[[override]]
+  name = "gopkg.in/check.v1"
+  revision = "4f90aeace3a26ad7021961c297b22c42160c7b25"
+
+[[override]]
+  name = "gopkg.in/errgo.v1"
+  revision = "442357a80af5c6bf9b6d51ae791a39c3421004f3"
+
+[[override]]
+  name = "gopkg.in/goose.v2"
+  revision = "f18d0f2f8f9bc5b5234a338670210c4bf4328ab4"
+
+[[override]]
+  name = "gopkg.in/httprequest.v1"
+  revision = "1a21782420ea13c3c6fb1d03578f446b3248edb1"
+
+[[override]]
+  name = "gopkg.in/juju/charmrepo.v2"
+  revision = "653bbd81990d2d7d48e0fb931a3b0f52c694572f"
+
+[[override]]
+  name = "gopkg.in/juju/worker.v1"
+  revision = "40da96d5fd22ba01076f56ba5fc6aa06315153c5"
+
+[[override]]
+  name = "gopkg.in/macaroon-bakery.v1"
+  revision = "469b44e6f1f9479e115c8ae879ef80695be624d5"
+
+[[override]]
+  name = "gopkg.in/macaroon-bakery.v2"
+  revision = "ec9d2ad6796100720c154f614b6dea8798ec1181"
+
+[[override]]
+  name = "gopkg.in/macaroon.v1"
+  revision = "ab3940c6c16510a850e1c2dd628b919f0f3f1464"
+
+[[override]]
+  name = "gopkg.in/mgo.v2"
+  source = "github.com/juju/mgo"
+  branch = "master"
+
+[[override]]
+  name = "gopkg.in/natefinch/lumberjack.v2"
+  revision = "df99d62fd42d8b3752c8a42c6723555372c02a03"
+
+[[override]]
+  name = "gopkg.in/tomb.v2"
+  revision = "14b3d72120e8d10ea6e6b7f87f7175734b1faab8"
+
+[[override]]
+  name = "gopkg.in/yaml.v2"
+  revision = "2025133c382644467541934971b571f7896de32a"
+  source = "github.com/juju/yaml"
+
+[[override]]
+  name = "k8s.io/apiextensions-apiserver"
+  revision = "4d05e43ad98c1edcf2f52291685bd9bbc12fd2cd"
